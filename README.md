@@ -1,6 +1,9 @@
-=============================
-Dataset characteristics
-=============================
+## Bike sharing assigment
+----------------------------------------------------------------------
+
+
+### Dataset characteristics
+
 day.csv have the following fields:
 	
 	- instant: record index
@@ -26,11 +29,15 @@ day.csv have the following fields:
 
 ------------------------------------------------------
 
-Description: This is a college assignment and if you feel any improvment please feel free to raise a PR. 
+**Description:**
+*This assignment is a programming assignment wherein we had to build a multiple linear regression model for the prediction of demand for shared bikes.*
+
+> [!WARNING]
+> This is a learning phase code. Please feel free to raise PR for improvement.
+
 	
-=============================
-License
-=============================
+### License
+
 Use of this dataset in publications must be cited to the following publication:
 
 [1] Fanaee-T, Hadi, and Gama, Joao, "Event labeling combining ensemble detectors and background knowledge", Progress in Artificial Intelligence (2013): pp. 1-15, Springer Berlin Heidelberg, doi:10.1007/s13748-013-0040-3.
@@ -48,8 +55,6 @@ Use of this dataset in publications must be cited to the following publication:
 	pages={1-15}
 }
 
-=========================================
-Contact
-=========================================
+**Contact**
 	
 For further information about this dataset please contact Hadi Fanaee-T (hadi.fanaee@fe.up.pt)
